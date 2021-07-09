@@ -1,6 +1,7 @@
 {
-  "checkBackDate": "2021-04-25T07:00:00",
-  "campaignTimeline": "2021-07-01T07:00:00 - 2021-08-01T07:00:00",
+  "checkBackDate": "2021-07-15T07:00:00",
+  "campaignTimeline": "2021-07-01T07:00:00 - 2021-09-01T07:00:00",
   "imageUrl": "https://two-clicks.github.io/files/shape.jpeg",
-  "productUrl": "https://kylebeats.com/"
+  "productUrl": "https://kylebeats.com/",
+  "campaignId": "8340a7cb-6ceb-4842-93f1-81209e1f7503"
 }
